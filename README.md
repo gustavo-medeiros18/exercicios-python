@@ -12,7 +12,7 @@
 
 ### 3. Variáveis
 - [x] **Fácil:** Crie uma variável para armazenar seu nome e outra para sua idade. Imprima ambos no console.
-- [ ] **Médio:** Crie um programa que troque os valores de duas variáveis sem usar uma terceira variável temporária.
+- [x] **Médio:** Crie um programa que troque os valores de duas variáveis sem usar uma terceira variável temporária.
 - [ ] **Difícil:** Crie um programa que leia três variáveis, faça um cálculo matemático com elas (como a fórmula de Bhaskara) e exiba o resultado.
 
 ### 4. Entrada de Dados (`input`)
