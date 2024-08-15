@@ -26,7 +26,7 @@
 - [ ] **Difícil:** Crie um programa que resolva uma equação de segundo grau (ax^2 + bx + c = 0) usando a fórmula de Bhaskara.
 
 ### 6. Métodos de String
-- [ ] **Fácil:** Crie uma string e imprima seu comprimento usando `len()`.
+- [x] **Fácil:** Crie uma string e imprima seu comprimento usando `len()`.
 - [ ] **Médio:** Crie uma string e converta-a para maiúsculas e minúsculas.
 - [ ] **Difícil:** Crie um programa que receba uma frase e conte quantas palavras começam com uma vogal.
 
