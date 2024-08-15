@@ -7,7 +7,7 @@
 
 ### 2. Saída de Dados com `print`
 - [x] **Fácil:** Crie uma mensagem de boas-vindas e imprima no console usando a função `print()`.
-- [ ] **Médio:** Crie um programa que peça ao usuário seu nome e idade, e depois exiba uma mensagem formatada dizendo "Olá, [nome]! Você tem [idade] anos."
+- [x] **Médio:** Crie um programa que peça ao usuário seu nome e idade, e depois exiba uma mensagem formatada dizendo "Olá, [nome]! Você tem [idade] anos."
 - [ ] **Difícil:** Crie um programa que receba três números inteiros e exiba a soma, a subtração, a multiplicação e a divisão entre eles, formatando a saída de forma clara e alinhada.
 
 ### 3. Variáveis
