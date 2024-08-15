@@ -22,7 +22,7 @@
 
 ### 5. Operadores Aritméticos
 - [x] **Fácil:** Crie um programa que calcule a soma, subtração, multiplicação e divisão de dois números fornecidos pelo usuário.
-- [ ] **Médio:** Crie um programa que calcule a média de cinco notas fornecidas pelo usuário.
+- [x] **Médio:** Crie um programa que calcule a média de cinco notas fornecidas pelo usuário.
 - [ ] **Difícil:** Crie um programa que resolva uma equação de segundo grau (ax^2 + bx + c = 0) usando a fórmula de Bhaskara.
 
 ### 6. Métodos de String
