@@ -1,7 +1,7 @@
 ## Lista de Exercícios em Python
 
 ### 1. Tipos de Dados em Python
-- [ ] **Fácil:** Crie variáveis para armazenar um número inteiro, um número decimal e uma string. Verifique o tipo de dado de cada variável usando `type()`.
+- [x] **Fácil:** Crie variáveis para armazenar um número inteiro, um número decimal e uma string. Verifique o tipo de dado de cada variável usando `type()`.
 - [ ] **Médio:** Crie uma lista que contenha diferentes tipos de dados (inteiro, float, string, boolean). Percorra a lista e imprima o tipo de cada elemento.
 - [ ] **Difícil:** Crie um dicionário que mapeie nomes de variáveis a valores de diferentes tipos (int, float, string). Implemente uma função que receba esse dicionário e retorne uma lista de variáveis do tipo string.
 
