@@ -27,7 +27,7 @@
 
 ### 6. Métodos de String
 - [x] **Fácil:** Crie uma string e imprima seu comprimento usando `len()`.
-- [ ] **Médio:** Crie uma string e converta-a para maiúsculas e minúsculas.
+- [x] **Médio:** Crie uma string e converta-a para maiúsculas e minúsculas.
 - [ ] **Difícil:** Crie um programa que receba uma frase e conte quantas palavras começam com uma vogal.
 
 ### 7. Operadores Condicionais/Relacionais
