@@ -6,7 +6,7 @@
 - [ ] **Difícil:** Crie um dicionário que mapeie nomes de variáveis a valores de diferentes tipos (int, float, string). Implemente uma função que receba esse dicionário e retorne uma lista de variáveis do tipo string.
 
 ### 2. Saída de Dados com `print`
-- [ ] **Fácil:** Crie uma mensagem de boas-vindas e imprima no console usando a função `print()`.
+- [x] **Fácil:** Crie uma mensagem de boas-vindas e imprima no console usando a função `print()`.
 - [ ] **Médio:** Crie um programa que peça ao usuário seu nome e idade, e depois exiba uma mensagem formatada dizendo "Olá, [nome]! Você tem [idade] anos."
 - [ ] **Difícil:** Crie um programa que receba três números inteiros e exiba a soma, a subtração, a multiplicação e a divisão entre eles, formatando a saída de forma clara e alinhada.
 
