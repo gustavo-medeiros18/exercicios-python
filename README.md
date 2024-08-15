@@ -31,7 +31,7 @@
 - [x] **Difícil:** Crie um programa que receba uma frase e conte quantas palavras começam com uma vogal.
 
 ### 7. Operadores Condicionais/Relacionais
-- [ ] **Fácil:** Crie um programa que verifique se um número é maior que 10 e imprima uma mensagem apropriada.
+- [x] **Fácil:** Crie um programa que verifique se um número é maior que 10 e imprima uma mensagem apropriada.
 - [ ] **Médio:** Crie um programa que peça duas idades e verifique se a primeira é maior ou igual à segunda.
 - [ ] **Difícil:** Crie um programa que receba três números e determine qual é o maior e qual é o menor.
 
