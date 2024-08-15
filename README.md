@@ -11,7 +11,7 @@
 - [x] **Difícil:** Crie um programa que receba três números inteiros e exiba a soma, a subtração, a multiplicação e a divisão entre eles, formatando a saída de forma clara e alinhada.
 
 ### 3. Variáveis
-- [ ] **Fácil:** Crie uma variável para armazenar seu nome e outra para sua idade. Imprima ambos no console.
+- [x] **Fácil:** Crie uma variável para armazenar seu nome e outra para sua idade. Imprima ambos no console.
 - [ ] **Médio:** Crie um programa que troque os valores de duas variáveis sem usar uma terceira variável temporária.
 - [ ] **Difícil:** Crie um programa que leia três variáveis, faça um cálculo matemático com elas (como a fórmula de Bhaskara) e exiba o resultado.
 
