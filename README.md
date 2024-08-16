@@ -42,7 +42,7 @@
 
 ### 9. If/Else/Else If
 - [x] **Fácil:** Crie um programa que verifique se um número é par ou ímpar.
-- [ ] **Médio:** Crie um programa que receba a nota de um aluno e imprima "Aprovado", "Recuperação" ou "Reprovado" com base em critérios predefinidos.
+- [x] **Médio:** Crie um programa que receba a nota de um aluno e imprima "Aprovado", "Recuperação" ou "Reprovado" com base em critérios predefinidos.
 - [ ] **Difícil:** Crie um programa que simule um sistema de vendas onde o usuário escolhe o produto e a quantidade, e o programa calcula o preço total com desconto, se aplicável.
 
 ### 10. Listas e Tuplas
