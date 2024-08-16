@@ -46,7 +46,7 @@
 - [ ] **Difícil:** Crie um programa que simule um sistema de vendas onde o usuário escolhe o produto e a quantidade, e o programa calcula o preço total com desconto, se aplicável.
 
 ### 10. Listas e Tuplas
-- [ ] **Fácil:** Crie uma lista de números inteiros e imprima o segundo elemento.
+- [x] **Fácil:** Crie uma lista de números inteiros e imprima o segundo elemento.
 - [ ] **Médio:** Crie uma tupla de strings e verifique se uma determinada palavra está presente nela.
 - [ ] **Difícil:** Crie um programa que receba uma lista de números inteiros e retorne uma nova lista contendo apenas os números pares.
 
