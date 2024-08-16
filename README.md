@@ -51,7 +51,7 @@
 - [x] **Difícil:** Crie um programa que receba uma lista de números inteiros e retorne uma nova lista contendo apenas os números pares.
 
 ### 11. Loops For e While
-- [ ] **Fácil:** Crie um loop `for` que imprima os números de 1 a 10.
+- [x] **Fácil:** Crie um loop `for` que imprima os números de 1 a 10.
 - [ ] **Médio:** Crie um loop `while` que continue pedindo números ao usuário até que ele digite um número negativo.
 - [ ] **Difícil:** Crie um programa que gere a sequência de Fibonacci até um número `n` fornecido pelo usuário.
 
