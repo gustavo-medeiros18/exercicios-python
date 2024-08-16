@@ -33,7 +33,7 @@
 ### 7. Operadores Condicionais/Relacionais
 - [x] **Fácil:** Crie um programa que verifique se um número é maior que 10 e imprima uma mensagem apropriada.
 - [x] **Médio:** Crie um programa que peça duas idades e verifique se a primeira é maior ou igual à segunda.
-- [ ] **Difícil:** Crie um programa que receba três números e determine qual é o maior e qual é o menor.
+- [x] **Difícil:** Crie um programa que receba três números e determine qual é o maior e qual é o menor.
 
 ### 8. Operadores Condicionais/Relacionais Aninhados
 - [ ] **Fácil:** Crie um programa que verifique se um número é positivo, negativo ou zero.
