@@ -48,7 +48,7 @@
 ### 10. Listas e Tuplas
 - [x] **Fácil:** Crie uma lista de números inteiros e imprima o segundo elemento.
 - [x] **Médio:** Crie uma tupla de strings e verifique se uma determinada palavra está presente nela.
-- [ ] **Difícil:** Crie um programa que receba uma lista de números inteiros e retorne uma nova lista contendo apenas os números pares.
+- [x] **Difícil:** Crie um programa que receba uma lista de números inteiros e retorne uma nova lista contendo apenas os números pares.
 
 ### 11. Loops For e While
 - [ ] **Fácil:** Crie um loop `for` que imprima os números de 1 a 10.
