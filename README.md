@@ -41,7 +41,7 @@
 - [ ] **Difícil:** Crie um programa que simule um sistema de autenticação, verificando se o usuário e a senha estão corretos e se o usuário possui acesso de administrador.
 
 ### 9. If/Else/Else If
-- [ ] **Fácil:** Crie um programa que verifique se um número é par ou ímpar.
+- [x] **Fácil:** Crie um programa que verifique se um número é par ou ímpar.
 - [ ] **Médio:** Crie um programa que receba a nota de um aluno e imprima "Aprovado", "Recuperação" ou "Reprovado" com base em critérios predefinidos.
 - [ ] **Difícil:** Crie um programa que simule um sistema de vendas onde o usuário escolhe o produto e a quantidade, e o programa calcula o preço total com desconto, se aplicável.
 
