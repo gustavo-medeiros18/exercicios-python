@@ -53,7 +53,7 @@
 ### 11. Loops For e While
 - [x] **Fácil:** Crie um loop `for` que imprima os números de 1 a 10.
 - [x] **Médio:** Crie um loop `while` que continue pedindo números ao usuário até que ele digite um número negativo.
-- [ ] **Difícil:** Crie um programa que gere a sequência de Fibonacci até um número `n` fornecido pelo usuário.
+- [x] **Difícil:** Crie um programa que gere a sequência de Fibonacci até um número `n` fornecido pelo usuário.
 
 ### 12. Operador Slice
 - [ ] **Fácil:** Crie uma lista e imprima os primeiros três elementos usando slicing.
