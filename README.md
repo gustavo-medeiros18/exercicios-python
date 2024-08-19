@@ -106,6 +106,6 @@
 - [ ] **Difícil:** Use `map` e `filter` em conjunto para primeiro dobrar e depois filtrar os números pares de uma lista.
 
 ### 22. F-Strings
-- [ ] **Fácil:** Crie uma string formatada usando f-string que inclua o nome e a idade de uma pessoa.
+- [x] **Fácil:** Crie uma string formatada usando f-string que inclua o nome e a idade de uma pessoa.
 - [ ] **Médio:** Crie uma f-string que formate números com duas casas decimais.
 - [ ] **Difícil:** Crie uma f-string que formate uma data e hora em um layout específico.
