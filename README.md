@@ -82,7 +82,7 @@
 
 ### 17. `args` e `kwargs`
 - [x] **Fácil:** Crie uma função que receba qualquer número de argumentos e retorne a soma deles usando `*args`.
-- [ ] **Médio:** Crie uma função que receba `**kwargs` e imprima os pares chave-valor.
+- [x] **Médio:** Crie uma função que receba `**kwargs` e imprima os pares chave-valor.
 - [ ] **Difícil:** Crie uma função que receba `*args` e `**kwargs`, e faça uma operação matemática baseada nos argumentos fornecidos.
 
 ### 18. Escopo e Variáveis Globais
