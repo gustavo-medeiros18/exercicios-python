@@ -62,7 +62,7 @@
 
 ### 13. Conjuntos (Sets)
 - [x] **Fácil:** Crie dois conjuntos de números inteiros e imprima a união deles.
-- [ ] **Médio:** Crie dois conjuntos de números inteiros e imprima a interseção deles.
+- [x] **Médio:** Crie dois conjuntos de números inteiros e imprima a interseção deles.
 - [ ] **Difícil:** Crie um programa que remova os elementos duplicados de uma lista usando um conjunto.
 
 ### 14. Dicionários
