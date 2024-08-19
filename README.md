@@ -101,7 +101,7 @@
 - [ ] **Difícil:** Crie uma função lambda que receba uma lista de números e filtre apenas os números pares.
 
 ### 21. Métodos `map` e `filter`
-- [ ] **Fácil:** Use `map` para dobrar os valores em uma lista de números inteiros.
+- [x] **Fácil:** Use `map` para dobrar os valores em uma lista de números inteiros.
 - [ ] **Médio:** Use `filter` para filtrar os números pares de uma lista.
 - [ ] **Difícil:** Use `map` e `filter` em conjunto para primeiro dobrar e depois filtrar os números pares de uma lista.
 
