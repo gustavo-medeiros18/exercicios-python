@@ -66,7 +66,7 @@
 - [x] **Difícil:** Crie um programa que remova os elementos duplicados de uma lista usando um conjunto.
 
 ### 14. Dicionários
-- [ ] **Fácil:** Crie um dicionário com três pares de chave-valor e imprima as chaves.
+- [x] **Fácil:** Crie um dicionário com três pares de chave-valor e imprima as chaves.
 - [ ] **Médio:** Crie um dicionário com informações de um aluno (nome, idade, notas) e calcule a média das notas.
 - [ ] **Difícil:** Crie um programa que receba um dicionário de produtos e seus preços e permita ao usuário adicionar, remover ou alterar produtos.
 
