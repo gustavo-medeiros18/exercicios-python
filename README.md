@@ -91,7 +91,7 @@
 - [ ] **Difícil:** Crie um programa que tenha múltiplas funções, algumas das quais alteram variáveis globais, e mostre como o escopo afeta essas variáveis.
 
 ### 19. Exceções e Try-Catch
-- [ ] **Fácil:** Crie um programa que tente dividir dois números e capture uma possível exceção de divisão por zero.
+- [x] **Fácil:** Crie um programa que tente dividir dois números e capture uma possível exceção de divisão por zero.
 - [ ] **Médio:** Crie um programa que leia um arquivo que não existe e capture a exceção apropriada.
 - [ ] **Difícil:** Crie um programa que receba uma lista de números e tente converter cada elemento para inteiro, capturando e tratando exceções de conversão.
 
