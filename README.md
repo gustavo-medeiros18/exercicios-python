@@ -61,7 +61,7 @@
 - [x] **Difícil:** Crie uma função que receba uma lista e retorne os elementos na ordem inversa usando slicing.
 
 ### 13. Conjuntos (Sets)
-- [ ] **Fácil:** Crie dois conjuntos de números inteiros e imprima a união deles.
+- [x] **Fácil:** Crie dois conjuntos de números inteiros e imprima a união deles.
 - [ ] **Médio:** Crie dois conjuntos de números inteiros e imprima a interseção deles.
 - [ ] **Difícil:** Crie um programa que remova os elementos duplicados de uma lista usando um conjunto.
 
