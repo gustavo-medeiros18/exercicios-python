@@ -57,7 +57,7 @@
 
 ### 12. Operador Slice
 - [x] **Fácil:** Crie uma lista e imprima os primeiros três elementos usando slicing.
-- [ ] **Médio:** Crie uma string e remova os últimos três caracteres usando slicing.
+- [x] **Médio:** Crie uma string e remova os últimos três caracteres usando slicing.
 - [ ] **Difícil:** Crie uma função que receba uma lista e retorne os elementos na ordem inversa usando slicing.
 
 ### 13. Conjuntos (Sets)
