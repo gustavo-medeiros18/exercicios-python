@@ -96,7 +96,7 @@
 - [ ] **Difícil:** Crie um programa que receba uma lista de números e tente converter cada elemento para inteiro, capturando e tratando exceções de conversão.
 
 ### 20. Lambda Functions
-- [ ] **Fácil:** Crie uma função lambda que multiplica um número por 2.
+- [x] **Fácil:** Crie uma função lambda que multiplica um número por 2.
 - [ ] **Médio:** Crie uma função lambda que receba dois números e retorne o maior deles.
 - [ ] **Difícil:** Crie uma função lambda que receba uma lista de números e filtre apenas os números pares.
 
