@@ -76,7 +76,7 @@
 - [ ] **Difícil:** Crie um dicionário que mapeie os números de 1 a 10 para seus quadrados usando dict comprehension.
 
 ### 16. Criação de Funções
-- [ ] **Fácil:** Crie uma função que receba dois números e retorne a soma deles.
+- [x] **Fácil:** Crie uma função que receba dois números e retorne a soma deles.
 - [ ] **Médio:** Crie uma função que receba uma lista de números e retorne a média deles.
 - [ ] **Difícil:** Crie uma função que receba uma lista de números e retorne o maior valor usando recursão.
 
