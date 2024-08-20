@@ -73,7 +73,7 @@
 ### 15. Comprehensions
 - [x] **Fácil:** Crie uma lista de números de 1 a 10 usando list comprehension.
 - [x] **Médio:** Crie uma lista de números pares de 1 a 20 usando list comprehension.
-- [ ] **Difícil:** Crie um dicionário que mapeie os números de 1 a 10 para seus quadrados usando dict comprehension.
+- [x] **Difícil:** Crie um dicionário que mapeie os números de 1 a 10 para seus quadrados usando dict comprehension.
 
 ### 16. Criação de Funções
 - [x] **Fácil:** Crie uma função que receba dois números e retorne a soma deles.
