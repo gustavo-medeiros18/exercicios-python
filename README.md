@@ -38,7 +38,7 @@
 ### 8. Operadores Condicionais/Relacionais Aninhados
 - [x] **Fácil:** Crie um programa que verifique se um número é positivo, negativo ou zero.
 - [x] **Médio:** Crie um programa que receba a idade de uma pessoa e verifique se ela é criança, adolescente, adulta ou idosa.
-- [ ] **Difícil:** Crie um programa que simule um sistema de autenticação, verificando se o usuário e a senha estão corretos e se o usuário possui acesso de administrador.
+- [x] **Difícil:** Crie um programa que simule um sistema de autenticação, verificando se o usuário e a senha estão corretos e se o usuário possui acesso de administrador.
 
 ### 9. If/Else/Else If
 - [x] **Fácil:** Crie um programa que verifique se um número é par ou ímpar.
