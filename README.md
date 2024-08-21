@@ -103,7 +103,7 @@
 ### 21. Métodos `map` e `filter`
 - [x] **Fácil:** Use `map` para dobrar os valores em uma lista de números inteiros.
 - [x] **Médio:** Use `filter` para filtrar os números pares de uma lista.
-- [ ] **Difícil:** Use `map` e `filter` em conjunto para primeiro dobrar e depois filtrar os números pares de uma lista.
+- [x] **Difícil:** Use `map` e `filter` em conjunto para primeiro dobrar e depois filtrar os números pares de uma lista.
 
 ### 22. F-Strings
 - [x] **Fácil:** Crie uma string formatada usando f-string que inclua o nome e a idade de uma pessoa.
