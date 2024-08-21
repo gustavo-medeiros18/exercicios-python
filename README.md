@@ -87,7 +87,7 @@
 
 ### 18. Escopo e Variáveis Globais
 - [x] **Fácil:** Crie uma variável global e uma função que a altere.
-- [ ] **Médio:** Crie um programa que use variáveis globais e locais para calcular o valor de uma expressão matemática.
+- [x] **Médio:** Crie um programa que use variáveis globais e locais para calcular o valor de uma expressão matemática.
 - [ ] **Difícil:** Crie um programa que tenha múltiplas funções, algumas das quais alteram variáveis globais, e mostre como o escopo afeta essas variáveis.
 
 ### 19. Exceções e Try-Catch
