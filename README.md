@@ -108,4 +108,4 @@
 ### 22. F-Strings
 - [x] **Fácil:** Crie uma string formatada usando f-string que inclua o nome e a idade de uma pessoa.
 - [x] **Médio:** Crie uma f-string que formate números com duas casas decimais.
-- [ ] **Difícil:** Crie uma f-string que formate uma data e hora em um layout específico.
+- [x] **Difícil:** Crie uma f-string que formate uma data e hora em um layout específico.
