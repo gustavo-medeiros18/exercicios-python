@@ -18,7 +18,7 @@
 ### 4. Entrada de Dados (`input`)
 - [x] **Fácil:** Crie um programa que pergunte o nome do usuário e depois o imprima no console.
 - [x] **Médio:** Crie um programa que peça ao usuário dois números e depois imprima a soma deles.
-- [ ] **Difícil:** Crie um programa que peça ao usuário seu nome, idade e cidade. Depois, exiba essas informações em um formato de tabela.
+- [x] **Difícil:** Crie um programa que peça ao usuário seu nome, idade e cidade. Depois, exiba essas informações em um formato de tabela.
 
 ### 5. Operadores Aritméticos
 - [x] **Fácil:** Crie um programa que calcule a soma, subtração, multiplicação e divisão de dois números fornecidos pelo usuário.
