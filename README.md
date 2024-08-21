@@ -98,7 +98,7 @@
 ### 20. Lambda Functions
 - [x] **Fácil:** Crie uma função lambda que multiplica um número por 2.
 - [x] **Médio:** Crie uma função lambda que receba dois números e retorne o maior deles.
-- [ ] **Difícil:** Crie uma função lambda que receba uma lista de números e filtre apenas os números pares.
+- [x] **Difícil:** Crie uma função lambda que receba uma lista de números e filtre apenas os números pares.
 
 ### 21. Métodos `map` e `filter`
 - [x] **Fácil:** Use `map` para dobrar os valores em uma lista de números inteiros.
