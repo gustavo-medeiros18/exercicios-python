@@ -93,7 +93,7 @@
 ### 19. Exceções e Try-Catch
 - [x] **Fácil:** Crie um programa que tente dividir dois números e capture uma possível exceção de divisão por zero.
 - [x] **Médio:** Crie um programa que leia um arquivo que não existe e capture a exceção apropriada.
-- [ ] **Difícil:** Crie um programa que receba uma lista de números e tente converter cada elemento para inteiro, capturando e tratando exceções de conversão.
+- [x] **Difícil:** Crie um programa que receba uma lista de números e tente converter cada elemento para inteiro, capturando e tratando exceções de conversão.
 
 ### 20. Lambda Functions
 - [x] **Fácil:** Crie uma função lambda que multiplica um número por 2.
