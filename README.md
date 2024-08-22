@@ -78,7 +78,7 @@
 ### 16. Criação de Funções
 - [x] **Fácil:** Crie uma função que receba dois números e retorne a soma deles.
 - [x] **Médio:** Crie uma função que receba uma lista de números e retorne a média deles.
-- [ ] **Difícil:** Crie uma função que receba uma lista de números e retorne o maior valor usando recursão.
+- [x] **Difícil:** Crie uma função que receba uma lista de números e retorne o maior valor usando recursão.
 
 ### 17. `args` e `kwargs`
 - [x] **Fácil:** Crie uma função que receba qualquer número de argumentos e retorne a soma deles usando `*args`.
