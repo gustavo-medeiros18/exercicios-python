@@ -2,7 +2,7 @@
 
 ## 1. Sintaxe Básica e Tipagem Dinâmica
 
-- [ ] Fácil: Crie uma função que receba dois números e retorne a soma.
+- [x] Fácil: Crie uma função que receba dois números e retorne a soma.
 - [ ] Médio: Escreva uma função que receba uma string e retorne um dicionário com a contagem de cada caractere.
 - [ ] Difícil: Crie uma função que valide se uma expressão matemática em string tem os parênteses corretamente balanceados.
 
