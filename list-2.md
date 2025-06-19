@@ -10,7 +10,7 @@
 
 ## 2. List Comprehensions
 
-- [ ] Fácil: Dada uma lista de números de 1 a 10, crie uma nova lista com o quadrado de cada número.
+- [x] Fácil: Dada uma lista de números de 1 a 10, crie uma nova lista com o quadrado de cada número.
 - [ ] Médio: Filtre de uma lista de strings apenas aquelas que começam com a letra "a" (minúscula).
 - [ ] Difícil: Gere todas as combinações possíveis (tuplas) entre dois conjuntos de listas, usando list comprehension.
 
