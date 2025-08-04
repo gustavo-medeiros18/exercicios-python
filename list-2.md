@@ -18,7 +18,7 @@
 
 ## 3. Manipulação de Dicionários
 
-- [ ] Fácil: Crie um dicionário com chaves de 1 a 5 e valores sendo o dobro da chave.
+- [x] Fácil: Crie um dicionário com chaves de 1 a 5 e valores sendo o dobro da chave.
 - [ ] Médio: Faça um programa que conte quantas vezes cada palavra aparece em uma frase.
 - [ ] Difícil: Dado um dicionário de alunos e suas listas de notas, crie uma nova estrutura que contenha apenas os alunos com média acima de 7.
 
